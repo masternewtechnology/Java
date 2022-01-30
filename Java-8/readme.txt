@@ -26,5 +26,7 @@ New features in Java
 			implementation class and can be overridden.
 			
 2) Method Reference
+		Method reference can be used as a shorter and more readable alternative for a lambda expression which only calls
+		an existing method
 
 			
